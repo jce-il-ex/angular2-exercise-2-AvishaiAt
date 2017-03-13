@@ -10,10 +10,10 @@ button
     padding: 15px 15px 15px 15px;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 300%;
-    border-radius: 50%
+    border-radius: 50%;
+    margin: 15px;
 }
 
-/* Change the link color to #111 (black) on hover */
 button:hover 
 {
     background-color: deepskyblue;
