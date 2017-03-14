@@ -1,4 +1,4 @@
-#Firebase: [link](https://angular2ex2.firebaseapp.com/)
+
 #Submission date:
 14/03/2017
 
